@@ -9,7 +9,7 @@ ctx = CtxStorage()
 
 user_accounting = set()
 
-admin_id = [270739574, 546117535]  # id админов
+admin_id = [270739574, 546117535, 361345797, 746709141, 356013181, 186824480, 281357658]
 
 green = KeyboardButtonColor.POSITIVE
 red = KeyboardButtonColor.NEGATIVE

@@ -2,5 +2,5 @@ from vkbottle import BaseStateGroup
 
 
 class BotStates(BaseStateGroup):
-    GET_NAME = 1
-
+    CHECK_ANSWER = 1
+    INPUT_SPAM = 2
